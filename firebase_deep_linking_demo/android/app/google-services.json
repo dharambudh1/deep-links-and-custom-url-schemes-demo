@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312390281316",
+    "project_id": "firebase-deep-linking-demo",
+    "storage_bucket": "firebase-deep-linking-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312390281316:android:02ce8aa70026f688ca9771",
+        "android_client_info": {
+          "package_name": "com.example.firebase_deep_linking_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312390281316-okqtvl61othog09iefevq3iobtia665s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1RLFUowDbc9cIScEFRiKOMWlkfCezvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312390281316-okqtvl61othog09iefevq3iobtia665s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
